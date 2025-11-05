@@ -1,5 +1,5 @@
 import React from 'react'
-import team from "../Arrays/team.json";
+import team from "../team.json";
 
 export default function Cards() {
     return (
