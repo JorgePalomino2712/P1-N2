@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Bill Mahoney",
+    "rol": "PRODUCT OWNER",
+    "imagen":"./images/photo1.png"
+  },
+  {
+    "nombre": "Saba Cabrera",
+    "rol": "ART DIRECTOR",
+    "imagen":"./images/photo2.png"
+  },
+  {
+    "nombre": "Shae Le",
+    "rol": "TECH LEAD",
+    "imagen":"./images/photo3.png"
+  },
+  {
+    "nombre": "Skylah Lu",
+    "rol": "UX DESIGNER",
+    "imagen":"./images/photo4.png"
+  },
+  {
+    "nombre": "Griff Richards",
+    "rol": "DEVELOPER",
+    "imagen":"./images/photo5.png"
+  },
+  {
+    "nombre": "Stan John",
+    "rol": "DEVELOPER",
+    "imagen":"./images/photo6.png"
+  }
+]
