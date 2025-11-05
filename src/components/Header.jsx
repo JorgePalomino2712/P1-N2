@@ -12,8 +12,8 @@ export default function Header() {
     return (
         <>
             <div className='flex flex-col p-7'>
-                <button className='flex justify-end cursor-pointer' onClick={dark}><img src="./images/luna.png" className={`h-12 ${visible ? "hidden" : ""}`} alt="" /></button>
-                <button className='flex justify-end cursor-pointer' onClick={dark}><img src="./images/sol.png" className={`h-12 ${visible ? "" : "hidden"}`} alt="" /></button>
+                <button className='flex justify-end cursor-pointer' onClick={dark}><img src="./luna.png" className={`h-12 ${visible ? "hidden" : ""}`} alt="" /></button>
+                <button className='flex justify-end cursor-pointer' onClick={dark}><img src="./sol.png" className={`h-12 ${visible ? "" : "hidden"}`} alt="" /></button>
                 <div className='md:flex  md:items-start md:justify-between'>
                     <h1 className='flex text-3xl font-bold'>
                         The Creative crew
